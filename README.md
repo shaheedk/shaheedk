@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)](https://rishavchanda.io)
-    <h1 align="center">Hi 👋, I'm Shaheed mon</h1>
+    <h1 align="center">Hi 👋, I'm Shaheed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://dhboss.com/images/95116-coder.gif">
