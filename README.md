@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://dhboss.com/images/95116-coder.gif">
 - 🌱 I’m currently learning **react js**
 
-- 👨‍💻 All of my projects are available at [https://shaheedk.github.io/shaheedk-portfolio/](https://shaheedk.github.io/shaheedk-portfolio/)
+- 👨‍💻 All of my projects are available at [https://shaheed-portfolio.netlify.app/](https://shaheed-portfolio.netlify.app/)
 
 - 💬 Ask me about **Front End Devoloper**
 
