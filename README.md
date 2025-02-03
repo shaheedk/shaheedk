@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif" alt="Header Image" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif" alt="Header Image" height='200px' width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shaheed</h1>
